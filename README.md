@@ -15,7 +15,7 @@
 
 ### 🔑 Key Features  
 - **Dependency-Lite**: Removes OpenCV, SciPy, and scikit-image in favor of lightweight alternatives (Pillow + NumPy)  
-- **Smaller Install**: -60% smaller package size vs original (~113MB vs ~297B)  
+- **Smaller Install**: -76% smaller package size vs original (~113MB vs ~297B)  
 - **CPU-First Design**: Optimized for ONNX Runtime with minimal memory footprint  
 - **Cross-Platform**: Works out-of-the-box on Windows/Linux/macOS (x86 + ARM)  
 
@@ -44,7 +44,7 @@ print(result)  # [[coordinates], text, confidence]
 |--------------------------|-------------------|--------------|  
 | OpenCV Dependency        | ✅ Required       | ❌ Removed    |  
 | scikit-image/SciPy       | ✅ Required       | ❌ Removed    |  
-| Install Size             | ~297MB            | ~113MB       |  
+| Install Size             | ~397MB            | ~93MB        |  
 | Cold Start Time          | ~1.5s             | ~0.8s        |  
 | ARM Compatibility        | Partial           | Full         |  
 | Device                   | Ubuntu            | Ubuntu       |  
