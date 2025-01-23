@@ -31,7 +31,7 @@ pip install rapidocr-onnxruntime-lite
 
 ### 🛠️ Usage Example 👈 
 ```python
-from rapidocr_onnxruntime_lite import RapidOCR
+from rapidocr_onnxruntime import RapidOCR
 
 ocr = RapidOCR()
 result, elapse = ocr("image.jpg")
