@@ -13,5 +13,9 @@ setup(
     python_requires=">=3.8",
     install_requires=install_requires,
     packages=find_packages(),
-    url="https://github.com/R4Ajeti/rapidocr-onnxruntime-lite",  # Homepage URL
+    include_package_data=True,
+    package_data={
+        "rapidocr_onnxruntime": ["config.yaml"],
+    },
+    url="https://github.com/R4Ajeti/rapidocr-onnxruntime-lite",
 )
