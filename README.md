@@ -15,7 +15,7 @@
 
 ### 🔑 Key Features  
 - **Dependency-Lite**: Removes OpenCV, SciPy, and scikit-image in favor of lightweight alternatives (Pillow + NumPy)  
-- **Smaller Install**: 80%+ smaller package size vs original (~15MB vs ~100MB)  
+- **Smaller Install**: -60% smaller package size vs original (~113MB vs ~297B)  
 - **CPU-First Design**: Optimized for ONNX Runtime with minimal memory footprint  
 - **Cross-Platform**: Works out-of-the-box on Windows/Linux/macOS (x86 + ARM)  
 - **Production-Ready**: Simplified API for easy integration into web services/edge devices  
