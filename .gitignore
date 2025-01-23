@@ -140,7 +140,7 @@ dmypy.json
 /models
 
 #models
-*.onnx
+# *.onnx
 
 *.ttf
 *.ttc

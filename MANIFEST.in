@@ -1,1 +1,2 @@
 recursive-include rapidocr_onnxruntime *.yaml
+recursive-include rapidocr_onnxruntime/models *.onnx
