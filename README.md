@@ -23,7 +23,8 @@
 
 ### 📦 Installation 👈 
 ```bash
-pip install rapidocr-onnxruntime-lite
+git clone {{RepoSource}}.git
+pip install -r requirements.txt --no-deps
 ```
 
 ---

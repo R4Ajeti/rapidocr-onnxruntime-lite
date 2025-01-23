@@ -1,0 +1,8 @@
+numpy
+Pillow
+PyYAML
+onnxruntime>=1.7.0
+Shapely>=1.7.1,!=2.0.4
+pyclipper>=1.2.0
+lazy_loader
+scikit-image
