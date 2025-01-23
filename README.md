@@ -44,9 +44,10 @@ print(result)  # [[coordinates], text, confidence]
 |--------------------------|-------------------|--------------|  
 | OpenCV Dependency        | ✅ Required       | ❌ Removed    |  
 | scikit-image/SciPy       | ✅ Required       | ❌ Removed    |  
-| Install Size             | ~100MB            | ~15MB        |  
+| Install Size             | ~297MB            | ~113MB       |  
 | Cold Start Time          | ~1.5s             | ~0.8s        |  
 | ARM Compatibility        | Partial           | Full         |  
+| Device                   | Ubuntu            | Ubuntu       |  
 
 ---
 
