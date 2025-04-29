@@ -77,5 +77,5 @@ print(result)  # [[coordinates], text, confidence]
 
 **License**: [MIT](LICENSE)  
 **Original Project**: [RapidOCR](https://github.com/RapidAI/RapidOCR)  
-**Author**: Rinor Ajeti  
+**Author**: Rino Ajeti 
 **Contributing**: Issues and pull requests are welcome!  
